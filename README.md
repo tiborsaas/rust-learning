@@ -15,3 +15,8 @@ I run into a https error while installing a cargo package. I had to create a con
 [http]
 check-revoke = false
 ```
+
+## Practice apps
+
+[ ] Todo app: command line based
+[ ] Git commit analyzer: A cli tool that parses Conventional Commits
