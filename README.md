@@ -18,5 +18,5 @@ check-revoke = false
 
 ## Practice apps
 
-[ ] Todo app: command line based
-[ ] Git commit analyzer: A cli tool that parses Conventional Commits
+ - [ ] Todo app: command line based
+ - [ ] Git commit analyzer: A cli tool that parses Conventional Commits
